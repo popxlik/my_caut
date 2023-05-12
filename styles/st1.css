@@ -1,0 +1,14 @@
+table {
+    width: 70%;
+    border: 10px;
+    background-color: rgb(137, 253, 102);
+    margin: 0 auto;
+}
+img {
+    width: 70%;
+    margin-left: 10% ;
+    margin-right: 10%;
+}
+body{
+    background-color: rgb(18, 32, 78);
+}
